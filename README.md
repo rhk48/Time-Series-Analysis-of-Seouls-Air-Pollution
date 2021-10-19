@@ -2,8 +2,8 @@
 Author: 
 - Rashid Karriti
 # Overview
+![1574330288-5dd65fb06c221](https://user-images.githubusercontent.com/82670256/137976642-fc9b6da4-ff5d-451a-949c-142694fd77dc.jpg)
 
-![image](https://user-images.githubusercontent.com/82670256/137976009-594471f0-5e9a-4a0a-b3f9-f34c065d796a.jpeg)
 
 # Business Understanding
 
