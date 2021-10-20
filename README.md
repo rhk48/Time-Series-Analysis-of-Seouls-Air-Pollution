@@ -1,8 +1,6 @@
 # Time-Series-Analysis-of-Seouls-Air-Pollution
 By: Rashid Karriti
 # Overview
-![1574330288-5dd65fb06c221](https://user-images.githubusercontent.com/82670256/137976642-fc9b6da4-ff5d-451a-949c-142694fd77dc.jpg)
-
 ![image](https://user-images.githubusercontent.com/82670256/138161091-6e3846e7-bf6a-43a4-a9ed-5ee59d58a480.png)
 
 
