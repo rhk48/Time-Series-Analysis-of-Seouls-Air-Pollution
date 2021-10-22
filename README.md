@@ -15,7 +15,7 @@ The other data sets that I am working with is Shanghai's Air Quality Index (AQI)
 tbd. I plan on pulling examples of time series models here and putting the RMSE of each station to show with what range it can predict certain dangerous pollutants in each station. Additionally, showing Shanghai's pollutants that affect Seoul and weather data that shows how weather plays a huge factor in air pollution. I have the results, I just need to organize it all into a table and pick my visualizations.
 # Conclusion & Future Steps
 tbd most likely will recommend certain initiatives, what districts to pay the most attention to, and what South Korea can do to mitigate the damage that has been done.  
-# Relveant Links
+# Relevant Links 
 - [Impact of the Clean Air Act on Air Pollution and Infant Health: Evidence from South Korea](https://ftp.iza.org/dp11542.pdf)
 - [Air Pollution in the Republic of Korea](https://www.tandfonline.com/doi/pdf/10.1080/00022470.1984.10465820)
 - [KORUS-AQ Rapid Science Synthesis Report](https://espo.nasa.gov/sites/default/files/documents/KORUS-AQ%20RSSR.pdf)
