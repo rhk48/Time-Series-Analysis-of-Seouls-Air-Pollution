@@ -50,6 +50,10 @@ The other data sets that I am working with is Shanghai's Air Quality Index (AQI)
 
 # Results
 
+The results![image](https://user-images.githubusercontent.com/82670256/139115411-1ad96a48-4b19-41e1-8510-2efdc4e5e294.png)
+
+![image](https://user-images.githubusercontent.com/82670256/139115559-39caee54-a788-43d4-a62e-b0ee900ffea1.png)
+
 # Conclusion & Future Steps
 tbd most likely will recommend certain initiatives, what districts to pay the most attention to, and what South Korea can do to mitigate the damage that has been done.  
 # Relevant Links 
