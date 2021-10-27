@@ -12,7 +12,10 @@ of every station of Seoul to see within what range my models can predict bad pol
 This project focuses on using Time Series Models, mainly SARIMAX and ARIMA models, running several iterations to find with what range the models can predict the levels of each dangerous pollutant in every one of Seoul's 25 districts. My data set comes from Seoul Metropolitan Government public data through the 'Open Data Plaza' from the year 2017 to 2019 for every hour of the day across 25 districts of Seoul. Furthermore, I manipulated the dataset to be the daily average, as it was a better indicator for the levels of pollutants and a better fit for Time Series models. Lastly, I broke up every district of Seoul into a seperate dataframe and looked at the pollutants in that area and focused on those that reached levels dangerous for the public's health.   
 ![image](https://user-images.githubusercontent.com/82670256/139100853-d0795407-1323-4d29-b76d-967b9712a16e.png)
 
+##### What is NO2?
 
+- [NO2](https://www.epa.gov/no2-pollution/basic-information-about-no2) is a gas representative of the larger group of nitrogen oxides, mainly known to be a highly reactive gas. NO2 comes from emissions from automotive vehicles, and power plants. breathing in air with high levels of NO2 can lead to irritation of the lungs, and can permanently damage the respiratory system long term.  
+- 
 ![image](https://user-images.githubusercontent.com/82670256/139100935-7f3ed1b3-cc98-4136-9487-cd66579bd4f0.png)
 
 ![image](https://user-images.githubusercontent.com/82670256/139100949-ad44f879-ee2a-4a99-844c-8de0c19ed966.png)
@@ -32,9 +35,6 @@ Particle pollution includes:
 
 Most particles form in the atmosphere as a result of complex reactions of chemicals such as sulfur dioxide and nitrogen oxides, which are pollutants emitted from power plants, industries and automobiles.
 
-##### What is NO2?
-
-- [NO2](https://www.epa.gov/no2-pollution/basic-information-about-no2) is a gas representative of the larger group of nitrogen oxides, mainly known to be a highly reactive gas. NO2 comes from emissions from automotive vehicles, and power plants. breathing in air with high levels of NO2 can lead to irritation of the lungs, and can permanently damage the respiratory system long term.  
 
 The other data sets that I am working with is Shanghai's Air Quality Index (AQI) from 2017 to 2019 focusing on air pollutants PM 2.5, PM10, and NO2, based on [scientific](https://www.nature.com/articles/s41598-020-68201-0) research that suggest that a large amount of air pollutants, specifically particulate matter (PM2.5 and PM10) travels from Shanghai to Seoul, and showing this data will show how Shanghai's rising levels of pollutants has the lasting effects to the levels of air pollutants in Seoul. Additionally, I incorporated weather data from the National Oceanic and Atmospheric Administration (NOAA), specifically from its National Centers for Environmental Information (NOAA), on Seoul's daily weather to see if it correlates and/or has a large effect to the general effect of air pollution in Seoul. 
 
