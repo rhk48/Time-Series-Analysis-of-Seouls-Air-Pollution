@@ -44,7 +44,7 @@ The other data sets that I am working with is Shanghai's Air Quality Index (AQI)
 
 ![image](https://user-images.githubusercontent.com/82670256/139102769-a42aa51b-f493-4be1-b5d5-451b779e0bb7.png)
 
-![image](https://user-images.githubusercontent.com/82670256/139102794-2edceef4-259f-4a80-8692-c7bce5f13d8d.png)
+![image](https://user-images.githubusercontent.com/82670256/139115107-4db300ee-c2b9-4d19-8407-df3f65b746be.png)
 
 ![image](https://user-images.githubusercontent.com/82670256/139102949-52809bbd-c335-4065-8239-ddfa339a129a.png)
 
