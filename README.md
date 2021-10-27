@@ -63,6 +63,13 @@ My best model was able to predict incredibly close to that of the actual levels 
 In terms of predicting the next few days after, the model struggles to predict how high it can go, and most likely will have a better indication of how the next few days will go with more data and more precise identification of a specific area in a district.  
 ![image](https://user-images.githubusercontent.com/82670256/139115559-39caee54-a788-43d4-a62e-b0ee900ffea1.png)
 
+
+| Pollutant | Avg Train | Avg Test | 
+| :---: | :---: | :---: | 
+| NO2 | .03 ppm  | .08 ppm | 
+| PM10 | 26 mm3 | 51 mm3 | 
+| PM2.5 | 13 mm3  | 27 mm3 | 
+
 # Conclusion
 South Korea's Ministry of Health and Welfare should mainly focus their attention on: 
 
