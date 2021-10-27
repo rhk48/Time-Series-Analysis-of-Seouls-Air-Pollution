@@ -53,13 +53,24 @@ Additionally, I incorporated weather data from the National Oceanic and Atmosphe
 ![image](https://user-images.githubusercontent.com/82670256/139102949-52809bbd-c335-4065-8239-ddfa339a129a.png)
 
 # Results
+My best model was able to predict incredibly close to that of the actual levels of PM10 in Station 122, the district with the highest levels of PM10 across Seoul. The model is slightly off when it hits absurdly high levels, however with more data I believe that this model can become even more accurate on predicting high levels of PM10.  
+![image](https://user-images.githubusercontent.com/82670256/139115411-1ad96a48-4b19-41e1-8510-2efdc4e5e294.png)
 
-The results![image](https://user-images.githubusercontent.com/82670256/139115411-1ad96a48-4b19-41e1-8510-2efdc4e5e294.png)
-
+In terms of predicting the next few days after, the model struggles to predict how high it can go, and most likely will have a better indication of how the next few days will go with more data and more precise identification of a specific area in a district.  
 ![image](https://user-images.githubusercontent.com/82670256/139115559-39caee54-a788-43d4-a62e-b0ee900ffea1.png)
 
-# Conclusion & Future Steps
-tbd most likely will recommend certain initiatives, what districts to pay the most attention to, and what South Korea can do to mitigate the damage that has been done.  
+# Conclusion
+South Korea's Ministry of Health and Welfare should mainly focus their attention on: 
+A) Districts with high levels of PM2.5, PM10 and NO2.
+B) Mandante that air purification efforts be put in homes, especially in areas with high concentrations of pollutants. 
+C) Put more investment in clean energy and green development, which can reduce the levels of PM2.5 and PM10. 
+
+# Future Steps
+For better and more accurate modeling the future, the next steps will be:
+A) Collect more data earlier than 2017, it will allow us to read better patterns and modeling will be much better. 
+B) Examine other cities in Korea or in China, to see if the models work just as well and if certain pollutants are as common.
+
+
 # Relevant Links 
 - [Impact of the Clean Air Act on Air Pollution and Infant Health: Evidence from South Korea](https://ftp.iza.org/dp11542.pdf)
 - [Air Pollution in the Republic of Korea](https://www.tandfonline.com/doi/pdf/10.1080/00022470.1984.10465820)
