@@ -61,13 +61,18 @@ In terms of predicting the next few days after, the model struggles to predict h
 
 # Conclusion
 South Korea's Ministry of Health and Welfare should mainly focus their attention on: 
+
 A) Districts with high levels of PM2.5, PM10 and NO2.
-B) Mandante that air purification efforts be put in homes, especially in areas with high concentrations of pollutants. 
+
+B) Mandante that air purification efforts be put in homes, especially in areas with high concentrations of pollutants.
+
 C) Put more investment in clean energy and green development, which can reduce the levels of PM2.5 and PM10. 
 
 # Future Steps
 For better and more accurate modeling the future, the next steps will be:
+
 A) Collect more data earlier than 2017, it will allow us to read better patterns and modeling will be much better. 
+
 B) Examine other cities in Korea or in China, to see if the models work just as well and if certain pollutants are as common.
 
 
