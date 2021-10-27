@@ -40,13 +40,18 @@ Most particles form in the atmosphere as a result of complex reactions of chemic
 - [NO2](https://www.epa.gov/no2-pollution/basic-information-about-no2) is a gas representative of the larger group of nitrogen oxides, mainly known to be a highly reactive gas. NO2 comes from emissions from automotive vehicles, and power plants. breathing in air with high levels of NO2 can lead to irritation of the lungs, and can permanently damage the respiratory system long term.  
 
 
-The other data sets that I am working with is Shanghai's Air Quality Index (AQI) from 2017 to 2019 focusing on air pollutants PM 2.5, PM10, and NO2, based on [scientific](https://www.nature.com/articles/s41598-020-68201-0) research that suggest that a large amount of air pollutants, specifically particulate matter (PM2.5 and PM10) travels from Shanghai to Seoul, and showing this data will show how Shanghai's rising levels of pollutants has the lasting effects to the levels of air pollutants in Seoul. Additionally, I incorporated weather data from the National Oceanic and Atmospheric Administration (NOAA), specifically from its National Centers for Environmental Information (NOAA), on Seoul's daily weather to see if it correlates and/or has a large effect to the general effect of air pollution in Seoul. 
+
+
+
+The other data sets that I am working with is Shanghai's Air Quality Index (AQI) from 2017 to 2019 focusing on air pollutants PM 2.5, PM10, and NO2, based on [scientific](https://www.nature.com/articles/s41598-020-68201-0) research that suggest that a large amount of air pollutants, specifically particulate matter (PM2.5 and PM10) travels from Shanghai to Seoul, and showing this data will show how Shanghai's rising levels of pollutants has the lasting effects to the levels of air pollutants in Seoul. 
 
 ![image](https://user-images.githubusercontent.com/82670256/139102769-a42aa51b-f493-4be1-b5d5-451b779e0bb7.png)
 
 ![image](https://user-images.githubusercontent.com/82670256/139115107-4db300ee-c2b9-4d19-8407-df3f65b746be.png)
 
 ![image](https://user-images.githubusercontent.com/82670256/139102949-52809bbd-c335-4065-8239-ddfa339a129a.png)
+
+Additionally, I incorporated weather data from the National Oceanic and Atmospheric Administration (NOAA), specifically from its National Centers for Environmental Information (NOAA), on Seoul's daily weather to see if it correlates and/or has a large effect to the general effect of air pollution in Seoul. 
 
 # Results
 
