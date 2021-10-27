@@ -6,10 +6,11 @@ By: Rashid Karriti
 
 
 # Business Understanding
-![image](https://user-images.githubusercontent.com/82670256/139122358-2a768370-37c3-46d4-8158-7127e6fc51ee.png)
 
-Seoul, South Korea is one of the most polluted cities in the ![Uploading image.png…]()
-developed world, ranking [3rd](https://www.ft.com/content/b49a9878-141b-11e7-80f4-13e067d5072c) highest daily average as of 2017. Additionally, Seoul has reached PM2.5 levels which is [two times](https://smartairfilters.com/en/blog/air-quality-seoul-pollution/) the annual limit that the WHO recommends. This project analyses a series of time series models to provide insight to the South Korean Ministry of Health and Welfare, which is responsible for public health, to pinpoint what areas have the worst PM2.5, PM10, and NO2 levels that can lead to detrimental long term health effects to citizens across all districts of Seoul. Furthermore, this project investigates what could have caused these high levels of air pollution and what can be done to protect the public's health from these air pollutants. Looking at the root mean squared error
+
+![image](https://user-images.githubusercontent.com/82670256/139122534-6e012ee7-9dd5-4774-a8b9-26ec901181c3.jpeg)
+
+Seoul, South Korea is one of the most polluted cities in the developed world, ranking [3rd](https://www.ft.com/content/b49a9878-141b-11e7-80f4-13e067d5072c) highest daily average as of 2017. Additionally, Seoul has reached PM2.5 levels which is [two times](https://smartairfilters.com/en/blog/air-quality-seoul-pollution/) the annual limit that the WHO recommends. This project analyses a series of time series models to provide insight to the South Korean Ministry of Health and Welfare, which is responsible for public health, to pinpoint what areas have the worst PM2.5, PM10, and NO2 levels that can lead to detrimental long term health effects to citizens across all districts of Seoul. Furthermore, this project investigates what could have caused these high levels of air pollution and what can be done to protect the public's health from these air pollutants. Looking at the root mean squared error
 of every station of Seoul to see within what range my models can predict bad pollutants in specific districts.
 
 # Data Understanding
